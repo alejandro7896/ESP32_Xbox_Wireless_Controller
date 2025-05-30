@@ -49,12 +49,15 @@ El código está en un solo archivo, e incluye:
 
 En consola del ESP32 deberías ver algo como:
 
+```console
 _IRQ_SCAN_RESULT
 Dirección: XX:XX:XX:XX:XX:XX, Nombre: Xbox Wireless Controller, RSSI: -60
 Encontrado control Xbox con la dirección: XX:XX:XX:XX:XX:XX
 Conectado al dispositivo: XX:XX:XX:XX:XX:XX
 _IRQ_GATTC_NOTIFY
 Datos crudos: b'\x01\x00\x7f\x80...'
+```
+
 
 ## ❤️ Créditos
 
