@@ -58,6 +58,7 @@ _IRQ_GATTC_NOTIFY
 Datos crudos: b'\x01\x00\x7f\x80...'
 ```
 
+[![Mira el video en YouTube](https://img.youtube.com/vi/-hsCpYsESIU/0.jpg)](https://youtu.be/-hsCpYsESIU)
 
 ## ❤️ Créditos
 
